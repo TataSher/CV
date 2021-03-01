@@ -1,4 +1,4 @@
-## Your Name
+## Natalia Sherchenkova
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -6,59 +6,56 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Final Project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Squire and Partners** (2016 - 2020)  
+_Architect_
 
-- Any experience relevent to software development
+- I had an opportunity to be a project Architect for an office building just off Regent Street from a very early design stage through construction. This involves knowledge and experience of delivering a project, excellent design, communication & problem solving skills and the ability to effectively manage a team of people.
+- I was also an interior lead (a person in charge of a mini-team responsible for all the interior elements) for a 1960s tower refurbishment project in Holborn. This was a great experience working on a very complex project with a larger team.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Squire and Partners** (2013 - 2016)  
+_Part II Architectural Assistant_
 
-- Any experience relevent to software development
+- I was taking part in lots of projects with different uses, scales and complexity. After an architectural school it was important to acquire more practical skills, such as knowledge of various regulations, practice operation and working through various stages of the project in a team.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Excellent Design Skills
 
-#### This Skill
+- Studying and working many years in Architecture I have very strong design skills. A strong urge to achive the cleanest, neatest and aesthetically pleasing solution is now ingrained in me forever.
 
-- Experience
-- Achievements
-- Evidence
+#### Leading a project from inception to completion
 
-#### Another Skill
+- I worked on several architectural projects from very early stages through to completion. Having this experience enables one to realise what to spend the time and effort on at every stage. Completing a big project teaches you time management and organisational skills, how to set and achieve goals at every stage and how to find effective solutions under pressure.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (01.03.2021 to end_date)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Westminster University (2015 - 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Architecture
+- ARB/RIBA Part III
 
-#### Any other qualifications
+#### Architectural Association School of Architecture, London, UK (2008 - 2013)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Architecture 
+- ARB/RIBA Part I and ARB/RIBA Part II
+
+#### National Academy of Fine Art and Architecture, Kiev, Ukraine (2006 - 2008)
+
+- Architecture
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love drawing, sketching, doodling and making all sorts of things. Very
