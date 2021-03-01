@@ -58,4 +58,6 @@ _Part II Architectural Assistant_
 
 ## Hobbies
 
-I love drawing, sketching, doodling and making all sorts of things. Very
+I love drawing, sketching, doodling and making all sorts of things. 
+Casually snowboard and ski
+
