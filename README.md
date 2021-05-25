@@ -1,13 +1,15 @@
 ## Natalia Sherchenkova
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Makers graduate keen to learn new things and excited to apply myself in a new role as a junior software engineer. 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final Project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                     | Tech/tools                             |
+| ---------------------------- | ------------------------------- | -------------------------------------- |
+| **Final Project**            | A mobile app that allows        | React Native, JS, Jest, MongoDB,       |
+|                              | the user to create customized   | Mongoose, Expo, Express                |
+|                              | workouts                        |                                        |
+| **Something else worked on** | A webapp to do y.               | Ruby                                   |
 
 ## Experience
 
