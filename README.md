@@ -4,19 +4,24 @@ I am a Makers graduate keen to learn new things and excited to apply myself in a
 
 ## Projects
 
-| Name                         | Description                     | Tech/tools                             |
-| ---------------------------- | ------------------------------- | -------------------------------------- |
-| **Final Project**            | A mobile app that allows        | React Native, JS, Jest, MongoDB,       |
-|                              | the user to create customized   | Mongoose, Expo, Express                |
-|                              | workouts                        |                                        |
-| **Something else worked on** | A webapp to do y.               | Ruby                                   |
+| Name                         | Description                     | Tech/tools                             | Group/Individual (G/I)  |
+| ---------------------------- | ------------------------------- | -------------------------------------- | ----------------------- |
+| **Final Project**            | A mobile app that allows        | React Native, JS, Jest, MongoDB,       | G                       |
+|                              | the user to create customized   | Mongoose, Expo, Express                |                         |
+|                              | workouts                        |                                        |                         |
+|                              |                                 |                                        |                         |
+| **Chitter Sinatra**          | A small Twitter clone web app   | Ruby, RSpec, Sinatra, Rubocop          | I                       |
+|                              |                                 | Postgresql, HTML, CSS                  |                         |
+|                              |                                 |                                        |                         |
+| **Knitter**                  | A web app for sharing your      | Ruby on Rails, Postgresql & AWS,       | G                       |
+|                              | knitting experiences            | HTML, CSS, JS, RSpec, Rubocop          |                         |
 
 ## Experience
 
 **Squire and Partners** (2016 - 2020)  
 _Architect_
 
-- I had an opportunity to be a project Architect for an office building just off Regent Street from a very early design stage through construction. This involves knowledge and experience of delivering a project, excellent design, communication & problem solving skills and the ability to effectively manage a team of people.
+- I had an opportunity to be a project Architect for an office building just off Regent Street from a very early design stage through construction. This demands knowledge and experience of delivering a project, excellent design, communication & problem solving skills and the ability to effectively manage a team of people.
 - I was also an interior lead (a person in charge of a mini-team responsible for all the interior elements) for a 1960s tower refurbishment project in Holborn. This was a great experience working on a very complex project with a larger team.
 
 **Squire and Partners** (2013 - 2016)  
