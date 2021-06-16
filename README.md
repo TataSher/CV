@@ -1,20 +1,16 @@
 ## Natalia Sherchenkova
 
-I am a Makers graduate keen to learn new things and excited to apply myself in a new role as a junior software engineer. 
+I am a recent Makers Academy graduate keen to learn new things and excited to apply myself in a new role as a junior software engineer. 
 
 ## Projects
 
-| Name                         | Description                     | Tech/tools                             | Group/Individual (G/I)  |
-| ---------------------------- | ------------------------------- | -------------------------------------- | ----------------------- |
-| **Final Project**            | A mobile app that allows        | React Native, JS, Jest, MongoDB,       | G                       |
-|                              | the user to create customized   | Mongoose, Expo, Express                |                         |
-|                              | workouts                        |                                        |                         |
-|                              |                                 |                                        |                         |
-| **Chitter Sinatra**          | A small Twitter clone web app   | Ruby, RSpec, Sinatra, Rubocop          | I                       |
-|                              |                                 | Postgresql, HTML, CSS                  |                         |
-|                              |                                 |                                        |                         |
-| **Knitter**                  | A web app for sharing your      | Ruby on Rails, Postgresql & AWS,       | G                       |
-|                              | knitting experiences            | HTML, CSS, JS, RSpec, Rubocop          |                         |
+| Name | Links | Description | Tech/tools | 
+| --- | --- | --- | --- | 
+| **FitLyst** (Group Project) | [Frontend Repo](https://github.com/TataSher/FitLyst-ReactNative), [Backend Repo](https://github.com/TataSher/FitLyst-Server), [Presentation](https://youtu.be/avCYlOvstGc?t=653) | A mobile app that allows the user to create customized workouts. Final project at Makers Academy which we completed in 2 weeks in a team of 4. Learned a new tech stack with the help of my teammates to achieve this slick app | React Native, JS, Jest, MongoDB, Mongoose, Expo, Express |
+| **Knitter** (Group Project) | [Repo](https://github.com/TataSher/Acebook-Knitter) | A facebook clone web app for knitting enthusiasts. We completed this project in a group of 8 over a 2 week period while learning Ruby on Rails from scratch. Using Agile methodologies and knowledge sharing helped to achieve our goals on time | Ruby on Rails, JS, HTML, CSS, RSPEC, Heroku |
+| **Hammocks N' Drinks** (Group Project) | [Repo](https://github.com/TataSher/HammocksNDrinks) | An AirBnB clone for renting hammocks in space. It was our first group project at Makers. I contributed the fun art as well as code to this project| Ruby, Sinatra, Postgresql, RSPEC, Capybara |
+| **NoNoNote App** (Group Project) | [Repo](https://github.com/TataSher/NoNoNoteApp) | A single page notetaking web app using pure Js. We worked on project as a team of 4 for less than a week. I contributed art as well as code to make the app look mode fun|
+| **Chitter Sinatra** (Solo Project) |[Repo](https://github.com/TataSher/Chitter-Sinatra) |A small Twitter clone Sinatra web app | Ruby, RSpec, Sinatra, Rubocop, Postgresql, HTML, CSS |
 
 ## Experience
 
