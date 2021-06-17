@@ -65,7 +65,7 @@ During this time I was taking part in lots of projects with different uses, scal
 ## Education
 
 #### Makers Academy (01.03.2021 to end_date)
-*Full Stack Software Development Bootcamp*
+_Full Stack Software Development Bootcamp_
 
 Makers coding bootcamp is a 16 week intensive coding course. Along with lots of coding fundamentals we were encouraged to use Agile methodology to work on group projects of various sizes, had ongoing pairing sessions, process workshops and work on individual challenges.
 
@@ -89,7 +89,7 @@ Makers coding bootcamp is a 16 week intensive coding course. Along with lots of 
   - Heroku
 
 #### Westminster University (2015 - 2016)
-*Architecture Postgraduate Diploma in Professional Practice - ARB/RIBA Part III*
+_Architecture Postgraduate Diploma in Professional Practice - ARB/RIBA Part III_
 
 The content of the course was built on a previous professional experience and included the following subjects:
   - English Law, Regulations, Contracts and Procurement
@@ -98,7 +98,7 @@ The content of the course was built on a previous professional experience and in
   - Professional Case Study
 
 #### Architectural Association School of Architecture, London, UK (2008 - 2013)
-*Architecture(BA(Hons) & MArch) - ARB/RIBA Part I and ARB/RIBA Part II*
+_Architecture(BA(Hons) & MArch) - ARB/RIBA Part I and ARB/RIBA Part II_
 
  A five-year course composed of the Experimental Programme (Years 1–3, ARB/RIBA Part 1) and the Diploma Programme (Years 4–5, ARB/RIBA Part 2).
  Curriculum involved a variety of group and individual academic projects of various complexity, Technical and History&Theory stidies.
@@ -107,7 +107,7 @@ The content of the course was built on a previous professional experience and in
 
 
 #### National Academy of Fine Art and Architecture, Kiev, Ukraine (2006 - 2008)
-*Architecture*
+_Architecture_
 
 The Academy prides itself on a classical approach to architectural studies with a variety of subjects ranging from hand draughting, drawing, sketching to applied maths and material studies.
 
