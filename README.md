@@ -1,4 +1,14 @@
-## Natalia Sherchenkova
+<h1 align='center'>
+  Natalia Sherchenkova CV
+</h1>
+<p  align='center'>
+  <a href="https://github.com/TataSher/CV"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" ></a>
+   <a href="https://www.linkedin.com/in/natalia-sherchenkova"> <img src="https://img.shields.io/badge/-LinkedIn%20-black?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+ </p>
+ <div id="pattern">
+  <a href="https://github.com/TataSher/CV"><img src="https://github.com/TataSher/nsherchenkova/blob/main/Resources/pattern.png" style="background-repeat: repeat-x;height: 200px;"/></a>
+</div>
+ </p>
 
 I am a recent Makers Academy graduate keen to learn new things and excited to apply myself in a full-stack junior software engineer role.
 After many years of studying and practicing Architecture, I wanted a new challenge where I can apply my problem-solving skills and innate curiosity. I decided to join the world of Tech as it is the most fast-paced and innovative field at the moment. I happen to have a lot of software engineer friends and seeing this ever-evolving community also inspired the change in me. I am a very inquisitive and sociable person who likes working in a forward-thinking friendly environment and make amazing projects come to reality. With my previous experience as an Architect and newly acquired skills at Makers Academy, I feel that I am ready to join an interesting bunch of people and make great things together.
