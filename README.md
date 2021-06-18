@@ -119,7 +119,7 @@ ARB/RIBA Part III, AADipl
 ARB Registration No 087814F
 
 ## Hobbies
-
-- I love drawing, sketching, doodling, and making all sorts of things. 
+- Architecture
+- I love drawing, sketching, doodling, and making all sorts of things
 - Casually snowboard and ski
 
