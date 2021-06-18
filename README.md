@@ -35,7 +35,7 @@ As someone who was a practicing Architect for many years, I have plenty of exper
 
 - At Makers, I had an opportunity to use my teamwork skills in several group projects. I was facilitating as much of clear visual communication as possible: I took charge of creating mock-ups, mind-maps, and other useful means of devising an efficient plan for the team. Generally, Makers is a very-team oriented boot camp that encourages communication and knowledge exchange.
 
-#### Problem Solving and Analysis
+### Problem Solving and Analysis
 
 I can quickly analyse new environments to see the necessary constraints and swiftly move on to figuring out the best way forward. I have plenty of experience ranging from devising a brief with the client to dealing with construction issues on site.
 
@@ -44,7 +44,7 @@ I can quickly analyse new environments to see the necessary constraints and swif
 
 - During my 12 weeks at Makers, we were thrown into so many different environments where we adapted both in a group and individually and created some interesting projects. The challenge was to be able to quickly assess the problem and what needs to be studied to achieve the goal in areas that were not familiar to me at the time. It was a very empowering experience.
 
-#### Creativity and Design Skills
+### Creativity and Design Skills
 
 - Studying and working for many years in Architecture I have very strong design skills. An urge to achieve the cleanest, neatest, and most aesthetically pleasing solution is now ingrained in me forever. I also think that being playful and curious in the initial stages of design usually helps to achieve a truly unique outcome.
 
@@ -53,7 +53,7 @@ I can quickly analyse new environments to see the necessary constraints and swif
 
 - I applied my design skills not only to the coding areas to make the code as clear as possible but also took care of a pleasant user experience. I contributed some fun art to make the apps more interactive and contributed to a clear and user friendly-design.
 
-#### Fast Learner
+### Fast Learner
 
 This was mostly proven at the Makers course where we were given tonnes of new and interesting information. I was impressed with my ability to filter the information and compose it to be useful in achieving specific goals. I was unfamiliar with most of the concepts and tools taught at the course, but it didn't stop me to throw myself into this whirlwind of new information. I view challenges as opportunities for self-improvement.
 
@@ -76,7 +76,7 @@ During this time I was taking part in lots of projects with different uses, scal
 
 ## Education
 
-#### Makers Academy (01.03.2021 to end_date)
+### Makers Academy (01.03.2021 to end_date)
 _Full-Stack Software Development Bootcamp_
 
 Makers coding boot camp is a 16-week intensive coding course. Along with lots of coding fundamentals we were encouraged to use Agile methodology to work on group projects of various sizes, had ongoing pairing sessions, process workshops, and work on individual challenges.
@@ -100,7 +100,7 @@ __Tools__
   - APIs
   - Heroku
 
-#### Westminster University (2015 - 2016)
+### Westminster University (2015 - 2016)
 _Architecture Postgraduate Diploma in Professional Practice - ARB/RIBA Part III_
 
 The content of the course was built on a previous professional experience and included the following subjects:
@@ -109,7 +109,7 @@ The content of the course was built on a previous professional experience and in
   - Professional Development and Experience
   - Professional Case Study
 
-#### Architectural Association School of Architecture, London, UK (2008 - 2013)
+### Architectural Association School of Architecture, London, UK (2008 - 2013)
 _Architecture(BA(Hons) & MArch) - ARB/RIBA Part I and ARB/RIBA Part II_
 
  A five-year course composed of the Experimental Programme (Years 1–3, ARB/RIBA Part 1) and the Diploma Programme (Years 4–5, ARB/RIBA Part 2).
@@ -118,7 +118,7 @@ _Architecture(BA(Hons) & MArch) - ARB/RIBA Part I and ARB/RIBA Part II_
  are encouraged to explore  form, typology, programme, material, and fabrication along with critical architectural theory, environmental and technical subjects.
 
 
-#### National Academy of Fine Art and Architecture, Kyiv, Ukraine (2006 - 2008)
+### National Academy of Fine Art and Architecture, Kyiv, Ukraine (2006 - 2008)
 _Architecture_
 
 The Academy prides itself on a classical approach to architectural studies with a variety of subjects ranging from hand draughting, drawing, sketching to applied maths and material studies
