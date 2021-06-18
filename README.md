@@ -36,6 +36,7 @@ As someone who was a practicing Architect for many years, I have plenty of exper
 - At Makers, I had an opportunity to use my teamwork skills in several group projects. I was facilitating as much of clear visual communication as possible: I took charge of creating mock-ups, mind-maps, and other useful means of devising an efficient plan for the team. Generally, Makers is a very-team oriented boot camp that encourages communication and knowledge exchange.
 
 #### Problem Solving and Analysis
+
 I can quickly analyse new environments to see the necessary constraints and swiftly move on to figuring out the best way forward. I have plenty of experience ranging from devising a brief with the client to dealing with construction issues on site.
 
 **Key Achievements:**
