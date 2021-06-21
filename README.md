@@ -9,9 +9,9 @@
   <a href="https://github.com/TataSher"><img src="https://github.com/TataSher/nsherchenkova/blob/main/Resources/pattern.png" style="background-repeat: repeat-x;height: 200px;"/></a>
 </div>
  </p>
-
-I am a recent Makers Academy graduate keen to learn new things and excited to apply myself in a full-stack junior software engineer role.
-After many years of studying and practicing Architecture, I wanted a new challenge where I can apply my problem-solving skills and innate curiosity. I decided to join the world of Tech as it is the most fast-paced and innovative field at the moment. I happen to have a lot of software engineer friends and seeing this ever-evolving community also inspired the change in me. I am a very inquisitive and sociable person who likes working in a forward-thinking friendly environment and make amazing projects come to reality. With my previous experience as an Architect and newly acquired skills at Makers Academy, I feel that I am ready to join an interesting bunch of people and make great things together.
+ 
+Architect turned software engineer - I am a recent Makers Academy graduate keen to learn new skills and excited to apply myself in a full-stack junior software engineer role. As a very creative and friendly professional, I love coming up with new ideas and realising them with a team of like-minded people.
+After many years of studying and practicing Architecture, I wanted a new challenge where my problem-solving skills and innate curiosity can be applied. I decided to join the world of Tech with it being one of the most fast-paced and innovative industries. Having a close group of software engineer friends, I was able to see this ever-evolving community which has inspired this change in me. With my previous experience as an Architect and newly acquired skills at Makers Academy,  I am looking forward to working in a forward-thinking friendly environment to make amazing projects come to reality. 
 
 
 ## Projects
@@ -26,7 +26,7 @@ After many years of studying and practicing Architecture, I wanted a new challen
 
 ## Skills
 
-### Teamwork
+### Teamwork and Leadership
 
 As someone who was a practicing Architect for many years, I have plenty of experience leading and participating in varied teams of people. I enjoy social interactions and enabling the projects to evolve in a fun yet efficient way. I also strongly believe that sharing quality information and coaching is essential for a healthy working environment.
 
@@ -51,7 +51,7 @@ I can quickly analyse new environments to see the necessary constraints and swif
 **Key Achievements:**
 - My student and professional Architectural portfolio contain many a project both academic and built of varying degrees of complexity. Every stage of the project requires a different application of design skills: from a larger urban scale to the tiniest joinery detail.
 
-- I applied my design skills not only to the coding areas to make the code as clear as possible but also took care of a pleasant user experience. I contributed some fun art to make the apps more interactive and contributed to a clear and user friendly-design.
+- I applied my design skills not only to the coding areas to make the code as clear as possible but also took care of a pleasant user experience. I contributed some fun art to make the apps more interactive and contributed to a clean and user friendly-design.
 
 ### Fast Learner
 
@@ -60,23 +60,43 @@ This was mostly proven at the Makers course where we were given tonnes of new an
 
 ## Experience
 
-**Squire and Partners** (2016 - 2020)  
-_Architect_
+### Squire and Partners
+*Architect (2016 - 2020)*
 
-- I had an opportunity to be a project Architect for an eight-storey office building just off Regent Street from a very early design stage through construction. This demanded knowledge and experience of delivering a project, excellent design, communication & problem-solving skills, and the ability to effectively manage a team of people. 
+#### Cavendish Place Project
+I had an opportunity to be a project Architect for an eight-storey office building just off Regent Street from a very early design stage through construction. This demanded knowledge and experience of delivering a project, excellent design, communication & problem-solving skills, and the ability to effectively manage a team of people. 
 
-- I was also an interior lead (a person in charge of a mini-team responsible for all the interior elements) for an £80M(construction value) 1960s tower refurbishment project in Holborn. This was a great experience working on a very complex project with a larger team of about 10 people.
+**Challenges Overcome:**
+  - Design of the building that is contemporary yet fits the historic surroundings with Portland stone cladding and zinc mansard roof
+  - A heavily constrained plot of land with Party walls to all sides
+  - An escape corridor from Westminster University that had to be active at all times of construction from demolition to erection of the building
+ 
+#### Space House
+Interior lead for an £80M(construction value) 1960s tower refurbishment project in Holborn, I was responsible for coordinating and delivering all the interior architectural packages and lead a team of people. This was a great experience working on a very complex project with large architectural and consultant teams.
 
-**Squire and Partners** (2013 - 2016)  
+**Challenges Overcome:**
+  - Working on a listed building and a London landmark
+  - Adapting a 1960s building to fit modern comfort and sustainability requirements
+  - Designing bespoke mechanical ventilation solutions to optimise floor to ceiling heights
+  - Working with manufacturers to achieve sculptural interior features
+  
+#### Gordon House Studios
+Project architect of a refurbishment of an old Army and Navy store warehouse to create a contemporary office space. I started working on this project just graduating from the Architectural school as an Architectural Assistant role and finishing as a Project Architect. 
+
+**Challenges Overcome:**
+  - Original features were preserved and treated which required a lot of research, tests, and samples
+  - New polished concrete floors, thin folded metal staircase, and metal bridges were designed and developed with the manufacturers to complement the existing building fabric
+  - The lower ground floor was a trench-covered hundred and fifty-year-old plant area with old electric machines and enormous water tanks. The whole area had to     be carefully cleared, levelled, and treated to be inhabitable
+  - We had to build a new UKPN substation, which required a lot of communication and negotiation with Power Networks.
+ 
+### Squire and Partners (2013 - 2016)  
 _Part II Architectural Assistant_
 
 During this time I was taking part in lots of projects with different uses, scales, and complexity. After architectural school, it was important to acquire more practical skills, such as knowledge of various regulations, practice operation, and working through various stages of the project in a team.
 
-
-
 ## Education
 
-### Makers Academy (01.03.2021 to end_date)
+### Makers Academy (March 2021 to May 2021)
 _Full-Stack Software Development Bootcamp_
 
 Makers coding boot camp is a 16-week intensive coding course. Along with lots of coding fundamentals we were encouraged to use Agile methodology to work on group projects of various sizes, had ongoing pairing sessions, process workshops, and work on individual challenges.
