@@ -12,7 +12,7 @@
  [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) |
  
 Architect turned software engineer - I am a recent Makers Academy graduate keen to learn new skills and excited to apply myself in a full-stack junior software engineer role. As a very creative and friendly professional, I love coming up with new ideas and realising them with a team of like-minded people.
-After many years of studying and practicing Architecture, I wanted a new challenge where my problem-solving skills and innate curiosity can be applied. I decided to join the world of Tech with it being one of the most fast-paced and innovative industries. Having a close group of software engineer friends, I was able to see this ever-evolving community which has inspired this change in me. With my previous experience as an Architect and newly acquired skills at Makers Academy,  I am looking forward to working in a forward-thinking friendly environment to make amazing projects come to reality. 
+After many years of studying and practicing Architecture, I wanted a new challenge where my problem-solving skills and innate curiosity can be applied. I decided to join the world of Tech with it being one of the most fast-paced and innovative industries. Having a close group of software engineer friends, I was able to see this ever-evolving community which has inspired this change in me. With my previous experience as an Architect and newly acquired skills at Makers Academy,  I am excited to work in a forward-thinking friendly environment to make amazing projects come to reality. 
 
 
 ## Projects
