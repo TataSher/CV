@@ -152,5 +152,6 @@ ARB Registration No 087814F
 ## Hobbies
 
 - I love drawing, sketching, doodling, and making all sorts of things
-- Casually snowboard and ski
+![Image of BoardGame](http://pr2012.aaschool.ac.uk/submission/uploaded_files/DIP-02/natalia.sherchenkova-sketch.jpg)
+
 
