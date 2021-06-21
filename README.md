@@ -154,6 +154,7 @@ ARB Registration No 087814F
 
 - Architecture
 - I love drawing, sketching, doodling, and making all sorts of things
+- Casually ski and snowboard
 ![Image of BoardGame](http://pr2012.aaschool.ac.uk/submission/uploaded_files/DIP-02/natalia.sherchenkova-sketch.jpg)
 
 
