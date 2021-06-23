@@ -29,7 +29,8 @@ After many years of studying and practicing Architecture, I wanted a new challen
 
 ### Teamwork and Leadership
 
-As someone who was a practicing Architect for many years, I have plenty of experience leading and participating in varied teams of people. I enjoy social interactions and enabling the projects to evolve in a fun yet efficient way. I also strongly believe that sharing quality information and coaching is essential for a healthy working environment.
+As someone who was a practicing Architect for many years, I have plenty of experience leading and participating in various teams of people.
+Enabling the projects to evolve in a fun yet efficient way is what I find most enjoyable. A believer that sharing quality information and coaching is essential for a healthy working environment.
 
 **Key Achievements:**
 - I was a lead Architect of an office building project for several years and in this role, you need to not only lead a team of your fellow architects but also coordinate all the consultants and heavily engage with the contractor and client teams. To complete any architectural project you need to be able to communicate your ideas clearly, manage your and your team's time efficiently and be able to respond quickly to any arising queries. 
@@ -38,7 +39,8 @@ As someone who was a practicing Architect for many years, I have plenty of exper
 
 ### Problem Solving and Analysis
 
-I can quickly analyse new environments to see the necessary constraints and swiftly move on to figuring out the best way forward. I have plenty of experience ranging from devising a brief with the client to dealing with construction issues on site.
+I can quickly analyse new situations to see the necessary constraints and swiftly move on to figuring out the best way forward. The range of problems I dealt with is very broad: from devising a brief with the client to dealing with construction issues on site.
+
 
 **Key Achievements:**
 - Every architectural project has myriads of constraints ranging from client's interests, budgets, and urban planners' visions to building regulations, sustainability, and environmental concerns. One needs to take all of these constraints into account and create something not only passable but comfortable, beautiful, and unique.
@@ -47,7 +49,7 @@ I can quickly analyse new environments to see the necessary constraints and swif
 
 ### Creativity and Design Skills
 
-- Studying and working for many years in Architecture I have very strong design skills. An urge to achieve the cleanest, neatest, and most aesthetically pleasing solution is now ingrained in me forever. I also think that being playful and curious in the initial stages of design usually helps to achieve a truly unique outcome.
+Studying and working in Architecture for many years, I have very strong design skills. An urge  to achieve the cleanest, neatest, and most aesthetically pleasing solution is now ingrained in me forever. Being playful and curious in the initial stages of design helps to achieve a truly unique outcome.
 
 **Key Achievements:**
 - My student and professional Architectural portfolio contain many a project both academic and built of varying degrees of complexity. Every stage of the project requires a different application of design skills: from a larger urban scale to the tiniest joinery detail.
@@ -56,7 +58,7 @@ I can quickly analyse new environments to see the necessary constraints and swif
 
 ### Fast Learner
 
-This was mostly proven at the Makers course where we were given tonnes of new and interesting information. I was impressed with my ability to filter the information and compose it to be useful in achieving specific goals. I was unfamiliar with most of the concepts and tools taught at the course, but it didn't stop me to throw myself into this whirlwind of new information. I view challenges as opportunities for self-improvement.
+At the Makers course, we were given tonnes of new information, and I was able to filter through and organise it in a useful way to achieve various goals. Challenges are opportunities for self-improvement.
 
 
 ## Experience
